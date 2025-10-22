@@ -1,3 +1,37 @@
-.idea/*
+give me ide based and system files
 
-/.idea
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+
+# macOS files
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd/
+.DocumentRevisions-V100
+.TemporaryItems
+.apdisk
+# Windows files
+ehthumbs.db
+Icon?
+
+
+# Linux files
+*~
+.nfs*
+
